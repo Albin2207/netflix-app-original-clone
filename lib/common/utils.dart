@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 
 const imageUrl = 'https://image.tmdb.org/t/p/w500';
 const kBackgoundColor = Color(0xFF191a2c);
-const apiKey = '21d548f63198d5d5c735a3130e13e454';
+const apiKey = '';
 Color backgroundPrimary = const Color(0xFF111015);
 
 String getGenres(List<int> genres) {
